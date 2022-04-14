@@ -4,9 +4,121 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>220409_じゃんけんアプリ</title>
+    <!-- CSSを読み込む -->
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/style.css">
+    <!-- CSSを読み込む -->
 </head>
 <body>
-    
+    <!-- HTMLを書き込む -->
+    <main>
+        <div id="wrapper" class="wrapper">
+            <section id="top" class="top" width="500px">
+                <img src="image/logo.jpg" alt="トイカケロゴ" width="500px">
+            </section>
+            <section id="check"  >
+                <div class="check">
+                    <h1 class="check-haed">
+                        〜日々の振り返り〜
+                    </h1>
+                    <ul class="check-button">
+                        <li>
+                            <button class="checkin">☀チェックイン☀</button>
+                        </li>
+                        <li>
+                            <button class="checkout" >★チェックアウト★</button>
+                        </li>
+                    </ul>
+                    <div class="toykake">
+                        <form action="#" method="post">
+                            <dl class="form-inner">
+                                <dt class="form-title11">
+                                    　　　
+                                </dt>
+                                <dd class="form-item">
+                                    <textarea name="answer" id="answer" cols="60" rows="3" class="form-parts"></textarea>
+                                </dd>
+                                <dt class="form-title12">
+                                    　　　
+                                </dt>
+                                <dd class="form-item">
+                                    <textarea name="answer" id="answer" cols="60" rows="3" class="form-parts"></textarea>
+                                </dd>
+                                <dt class="form-title13">
+                                    　　　
+                                </dt>
+                                <dd class="form-item">
+                                    <textarea name="answer" id="answer" cols="60" rows="3" class="form-parts"></textarea>
+                                </dd>
+                                <div class="backenter">
+                                    <button class="back">戻る</button>
+                                    <dd class="form-submit"><input type="submit" value="終了" class="enter"></dd>   
+                                </div>
+                            </dl>
+                        </form>
+                    </div>
+                </div>
+            </section>
+            <section id="wellbeing" width="500px">
+                <div class="wellbeing">
+                    <h1 class="wellbeing-head">
+                        〜テーマを深堀り〜
+                    </h1>
+                    <ul class="wellbeing-button12">
+                        <li>
+                            <button class="wellbeing1">「やってみよう！」<br>（自己実現と成長）</button>
+                        </li>
+                        <li>
+                            <button class="wellbeing2">「ありがとう！」<br>（繋がりと感謝）</button>
+                        </li>
+                    </ul>
+                    <ul class="wellbeing-button34">
+                        <li>
+                            <button class="wellbeing3">「なんとかなる！」<br>（前向きと楽観）</button>
+                        </li>
+                        <li>
+                            <button class="wellbeing4">「あなたらしく！」<br>（独立とマイペース）</button>
+                        </li>
+                    </ul>
+                    <div class="toykake">
+                        <form action="#" method="post">
+                            <dl class="form-inner">
+                                <dt class="form-title21">
+                                    　　　
+                                </dt>
+                                <dd class="form-item">
+                                    <textarea name="answer" id="answer" cols="60" rows="3" class="form-parts"></textarea>
+                                </dd>
+                                <dt class="form-title22">
+                                    　　　
+                                </dt>
+                                <dd class="form-item">
+                                    <textarea name="answer" id="answer" cols="60" rows="3" class="form-parts"></textarea>
+                                </dd>
+                                <dt class="form-title23">
+                                    　　　
+                                </dt>
+                                <dd class="form-item">
+                                    <textarea name="answer" id="answer" cols="60" rows="3" class="form-parts"></textarea>
+                                </dd>
+                                <div class="backenter">
+                                    <button class="back">戻る</button>
+                                    <dd class="form-submit"><input type="submit" value="終了" class="enter"></dd>   
+                                </div>
+                            </dl>
+                        </form>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+    <!-- HTMLを書き込む -->
+    <!-- jQueryのCDNを読み込む -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <!-- jQueryのCDNを読み込む -->
+    <!-- JavaScriptを読み込む -->
+    <script src="js/janken.js"></script>
+    <!-- JavaScriptを読み込む -->
 </body>
 </html>
