@@ -1,0 +1,159 @@
+/* main */
+.wrapper{
+    text-align: center;
+    width: 500px;
+    box-shadow: 0 0 0 1px  #B1BECB;
+}
+.top{
+    text-align: center;
+}
+ul{
+    text-align: center;
+}
+li{
+    
+    display: inline;
+}
+button{
+    border: none;
+    width: 150px;
+    padding: 5px;
+}
+/* チェックイン・アウト */
+.check{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.check-haed{
+    margin: 20px;
+    font-weight: bolder;
+}
+.checkin{
+    background-color: #f19072;
+    color: #fff;
+}
+.checkin:hover {
+    opacity: 0.7;
+}
+.checkout{
+    background-color: #0086CC;
+    color: #fff;
+}
+.checkout:hover {
+    opacity: 0.7;
+} 
+.form-title11{
+    font-size: small;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+.form-title12{
+    font-size: small;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+.form-title13{
+    font-size: small;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+.form-item{
+    text-align: left;
+    margin-left: 30px;
+}
+.backenter{
+    display: flex;
+    justify-content: space-between;
+}
+.enter{
+    border: none;
+    width: 70px;
+    padding: 5px;
+    margin: 30px;
+    background-color: #fff;
+}
+.enter:hover {
+    opacity: 0.7;
+}
+.back{
+    border: none;
+    width: 70px;
+    padding: 5px;
+    margin: 30px;
+    background-color: #fff;
+}
+.back:hover {
+    opacity: 0.7;
+}
+/* チェックイン・アウト */
+/* 幸せの4つの因子 */
+ .wellbeing{
+    text-align: center;
+    margin-bottom: 150px;
+}
+.wellbeing-head{
+    margin: 20px;
+    font-weight: bolder;
+    text-align: center;
+}
+.wellbeing1{
+    background-color: #6CA20C;
+    color: #fff;
+    margin-bottom: 20px;
+}
+.wellbeing1:hover {
+    opacity: 0.7;
+}
+.wellbeing2{
+    background-color: #6CA20C;
+    color: #fff;
+    margin-bottom: 20px;
+}
+.wellbeing2:hover {
+    opacity: 0.7;
+}
+.wellbeing3{
+    background-color: #6CA20C;
+    color: #fff;
+    margin-bottom: 20px;
+}
+.wellbeing3:hover {
+    opacity: 0.7;
+}
+.wellbeing4{
+    background-color: #6CA20C;
+    color: #fff;
+    margin-bottom: 20px;
+}
+.wellbeing4:hover {
+    opacity: 0.7;
+}
+.form-title21{
+    font-size: small;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+.form-title22{
+    font-size: small;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+.form-title23{
+    font-size: small;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+/* 幸せの4つの因子 */
+/* main */
