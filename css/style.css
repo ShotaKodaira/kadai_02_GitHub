@@ -22,7 +22,7 @@ button{
 /* チェックイン・アウト */
 .check{
     text-align: center;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 .check-haed{
     margin: 20px;
@@ -42,21 +42,21 @@ button{
 .checkout:hover {
     opacity: 0.7;
 } 
-.form-title11{
+.form-title01{
     font-size: small;
     text-align: left;
     margin-top: 30px;
     margin-bottom: 10px;
     margin-left: 30px;
 }
-.form-title12{
+.form-title02{
     font-size: small;
     text-align: left;
     margin-top: 30px;
     margin-bottom: 10px;
     margin-left: 30px;
 }
-.form-title13{
+.form-title03{
     font-size: small;
     text-align: left;
     margin-top: 30px;
@@ -95,7 +95,7 @@ button{
 /* 幸せの4つの因子 */
  .wellbeing{
     text-align: center;
-    margin-bottom: 150px;
+    margin-bottom: 120px;
 }
 .wellbeing-head{
     margin: 20px;
@@ -133,27 +133,6 @@ button{
 }
 .wellbeing4:hover {
     opacity: 0.7;
-}
-.form-title21{
-    font-size: small;
-    text-align: left;
-    margin-top: 30px;
-    margin-bottom: 10px;
-    margin-left: 30px;
-}
-.form-title22{
-    font-size: small;
-    text-align: left;
-    margin-top: 30px;
-    margin-bottom: 10px;
-    margin-left: 30px;
-}
-.form-title23{
-    font-size: small;
-    text-align: left;
-    margin-top: 30px;
-    margin-bottom: 10px;
-    margin-left: 30px;
 }
 /* 幸せの4つの因子 */
 /* 〜「やってみよう！」（自己実現と成長）〜 */
@@ -246,6 +225,27 @@ button{
 .wellbeing112:hover{
     opacity: 0.7;
 }
+.form-title11{
+    font-size: small;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+.form-title12{
+    font-size: small;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+.form-title13{
+    font-size: small;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
 /* 〜「やってみよう！」（自己実現と成長）〜 */
 /* 〜「ありがとう！」（繋がりと感謝）〜 */
 .wellbeing-head2{
@@ -336,6 +336,27 @@ button{
 }
 .wellbeing212:hover{
     opacity: 0.7;
+}
+.form-title21{
+    font-size: small;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+.form-title22{
+    font-size: small;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+.form-title23{
+    font-size: small;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px;
 }
 /* 〜「ありがとう！」（繋がりと感謝）〜 */
 /* 〜「なんとかなる！」（前向きと楽観）〜 */
@@ -428,6 +449,27 @@ button{
 .wellbeing312:hover{
     opacity: 0.7;
 }
+.form-title31{
+    font-size: small;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+.form-title32{
+    font-size: small;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+.form-title33{
+    font-size: small;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
 /* 〜「なんとかなる！」（前向きと楽観）〜 */
 /* 〜「あなたらしく！」（独立とマイペース）〜 */
 .wellbeing-head4{
@@ -518,6 +560,27 @@ button{
 }
 .wellbeing412:hover{
     opacity: 0.7;
+}
+.form-title41{
+    font-size: small;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+.form-title42{
+    font-size: small;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+.form-title43{
+    font-size: small;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 30px;
 }
 /* 〜「あなたらしく！」（独立とマイペース）〜 */
 /* main */
